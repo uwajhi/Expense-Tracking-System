@@ -45,7 +45,7 @@ A complete expense tracking system built with FastAPI and Streamlit. It allows u
 
 ### Step 1: Clone the repository:
    ```bash
-   git clone https://github.com/uwajhi/expense-management-system.git
+   git clone https://github.com/uwajhi/expense-tracking-system.git
    cd expense-management-system
    ```
 ### Step 2: Install dependencies::   
