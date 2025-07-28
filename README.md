@@ -52,7 +52,6 @@ A complete expense tracking system built with FastAPI and Streamlit. It allows u
    ```commandline
     pip install -r requirements.txt
    ```
-
 ### Step 3: MySQL Database Setup
 ```sql
 CREATE DATABASE expense_tracker;
@@ -67,8 +66,17 @@ CREATE TABLE expenses (
 ```
 Update your `db_helper.py` to match your local database credentials.
 
----
+### Step 5: Run the project
 
+#### Start Backend API
+```bash
+uvicorn main:app --reload
+```
+
+#### Launch Streamlit Frontend
+```bash
+streamlit run app.py
+---
 ## 🧾 License
 
 This project is licensed under the **MIT License**. Feel free to use, modify, and distribute it with proper attribution.
