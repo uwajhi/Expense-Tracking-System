@@ -83,4 +83,4 @@ Contributions are welcome. Please fork the repository and create a pull request 
 
 ## 📬 Contact
 
-If you have any questions or feedback, feel free to contact [your-email@example.com].
+If you have any questions or feedback, feel free to contact [usamawajhi.pk@gmail.com](mailto:usamawajhi.pk@gmail.com).
