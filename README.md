@@ -76,7 +76,9 @@ uvicorn main:app --reload
 #### Launch Streamlit Frontend
 ```bash
 streamlit run app.py
+```
 ---
+
 ## 🧾 License
 
 This project is licensed under the **MIT License**. Feel free to use, modify, and distribute it with proper attribution.
