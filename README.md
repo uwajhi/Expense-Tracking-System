@@ -66,7 +66,7 @@ CREATE TABLE expenses (
 ```
 Update your `db_helper.py` to match your local database credentials.
 
-### Step 5: Run the project
+### Step 4: Run the project
 
 #### Start Backend API
 ```bash
